@@ -3,7 +3,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen p-8">
       <h1 className="text-2xl font-bold mb-6">Download the App</h1>
       <a
-        href="/nebartick.apk"
+        href="/Xender.apk"
         download
         className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-700 transition-colors text-lg font-medium"
       >
