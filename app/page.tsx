@@ -23,7 +23,7 @@ const apps = [
   { 
     name: "Lachi", 
     fileName: "lachi.apk",
-    description: "Music streaming app",
+    description: "mekelle lachi app",
     icon: "🎵",
     color: "bg-purple-500",
     category: "Entertainment"
@@ -31,7 +31,7 @@ const apps = [
   { 
     name: "Nebar", 
     fileName: "nebar.apk",
-    description: "News and information",
+    description: "nebar 09",
     icon: "📰",
     color: "bg-orange-500",
     category: "News"
