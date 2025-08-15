@@ -13,6 +13,14 @@ const apps = [
     category: "Utility"
   },
   { 
+    name: "Xender", 
+    fileName: "abyiadi.apk",
+    description: "hey fast",
+    icon: "🧶",
+    color: "bg-blue-500",
+    category: "Utility"
+  },
+  { 
     name: "GeezIME", 
     fileName: "geezIme.apk",
     description: "Ethiopian keyboard",
