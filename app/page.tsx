@@ -13,9 +13,57 @@ const apps = [
     category: "Utility"
   },
   { 
-    name: "Xender", 
+    name: "abyiadi", 
     fileName: "abyiadi.apk",
     description: "hey fast",
+    icon: "🧶",
+    color: "bg-blue-500",
+    category: "Utility"
+  },
+  { 
+    name: "Axsum", 
+    fileName: "Aksum Booking App.apk",
+    description: "none",
+    icon: "🧶",
+    color: "bg-blue-500",
+    category: "Utility"
+  },
+  { 
+    name: "Adigrat", 
+    fileName: "adigrat_V5.9.apk",
+    description: "none ",
+    icon: "🧶",
+    color: "bg-blue-500",
+    category: "Utility"
+  },
+  { 
+    name: "Adwa", 
+    fileName: "adwa_V6.3.apk",
+    description: "hey fast",
+    icon: "🧶",
+    color: "bg-blue-500",
+    category: "Utility"
+  },
+  { 
+    name: "abyiadi", 
+    fileName: "abyiadi.apk",
+    description: "hey fast",
+    icon: "🧶",
+    color: "bg-blue-500",
+    category: "Utility"
+  },
+  { 
+    name: "Samre", 
+    fileName: "samre.apk",
+    description: "samre ",
+    icon: "🧶",
+    color: "bg-blue-500",
+    category: "Utility"
+  },
+  { 
+    name: "shire", 
+    fileName: "abyiadi.apk",
+    description: "shire ",
     icon: "🧶",
     color: "bg-blue-500",
     category: "Utility"
